@@ -4,3 +4,6 @@
 !*.py
 !*.slurm
 !*.sh
+Miniconda*
+Miniforge*
+push -u origin master.yml
